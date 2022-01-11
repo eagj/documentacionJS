@@ -11,16 +11,11 @@ module.exports = {
   themeConfig: {
     editLinks: false,
     editLinkText: '',
-    lastUpdated: false,    
-    nav: [
-      {
-        text: 'Guía',
-        link: '/',
-      },     
-    ],
-    sidebar: [
-      '/',
-      '/01-Variables/'
+    lastUpdated: false,        
+    sidebar: [      
+      '/variables.md',
+     
+      
     ]
     
   },
