@@ -1,6 +1,6 @@
 module.exports = {
   dest: 'docs',
-  base: '/apuntesJS/',
+  base: '/documentacionJS/',
   title: 'Apunte sobre JS',
   description: 'Mis apuntes de JS según voy aprendiendo',
   head: [
